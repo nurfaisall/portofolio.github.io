@@ -218,6 +218,10 @@ textarea {
     margin-right: auto;
 }
 
+.ml-10 {
+  margin-left : 6px;
+}
+
 .my-2 {
     margin-top: 0.5rem/* 8px */;
     margin-bottom: 0.5rem/* 8px */;
